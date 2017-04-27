@@ -8,3 +8,7 @@ def joke():
 
 def add():
     print("siema siema")
+
+
+def shout():
+    print("kurwa mac!")
