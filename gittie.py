@@ -4,3 +4,7 @@ def introduce():
 
 def joke():
     print("it's a joke!")
+
+
+def add():
+    print("siema siema")
